@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#table_area {}
+#bitcamp_table {width: 85%; margin: 100px auto 0; border: 1px solid grey}
+#bitcamp_table tr {height:60px; border: 1px solid grey}
+#bitcamp_table th {height:60px; border: 1px solid grey}
+#bitcamp_table td {height:60px; border: 1px solid grey}
+#bitcamp_cofirm_btn {width: 100px; height: 34px; margin: 40px 0px 0px 0px; font-size: 20px;
+		border: none; background-color: tomato; color: white}

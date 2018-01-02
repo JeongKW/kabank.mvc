@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#signup_table {width: 600px; height: 500px; margin: 50px auto 0; text-align: left;}
+#signup_table tr {height: 40px; border-bottom: 1px solid grey; border-top: 1px solid grey}
+#signup_table td {height: 40px;}
+#signup_table td2 {height: 40px; text-align: left;}
+#signup_table td3 {height: 40px;}
+#join_confirm_btn {width: 100px; height: 30px; background-color: Tomato; color: white;}
+#box_cancel {width: 100px; height: 30px;}
+#combo_box {height: 29px}
+#combo_box2 {height: 29px}

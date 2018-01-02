@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#admin_add_member_table {width: 600px; height: 400px; margin: 50px auto 0; text-align: left;}
+#admin_add_member_table tr {height: 20px; border-bottom: 1px solid grey; border-top: 1px solid grey}
+#admin_add_member_table td {height: 20px;}
+#admin_add_member_table td2 {height: 20px; text-align: left;}
+#admin_add_member_table td3 {height: 20px;}
+#add_id {height: 25px}
+#add_name {height: 25px}
+#add_ssn {height: 25px}
+#add_gender {height: 25px}
+#add_phone {height: 25px}
+#add_email {height: 25px}
+#add_addr {height: 25px}
+#combo_box {height: 29px}
+#combo_box2 {height: 29px}
+#member_register_btn {width: 100px; height: 34px; margin: 20px 0px 0px 45%; font-size: 20px;
+		border: none; background-color: tomato; color: white;}

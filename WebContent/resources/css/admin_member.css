@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#search_bar {display: block; margin-top: 50px; height: 50px;}
+#admin_member_combo {float: left; width: 150px; margin: 0px 0px 0px 80px; height: 34px; border: none; background-color: lightgrey}
+#admin_member_input {float: right; width: 400px; height: 32px; border: 1px solid grey}
+#admin_member_search_btn {float: right; margin-right: 110px; width: 100px; height: 34px; border: none; background-color: lightgrey}
+
+#table_area {display: block;}
+#admin_member_table {margin-top: 50px; width : 85%; margin: 20px 0px 0px 80px; text-align: center; border: 1px solid grey}
+#admin_member_table tr {border: 1px solid grey}
+#admin_member_table_tr {border: 1px solid grey; background-color: orange}
+#admin_member_table th {border: 1px solid grey}
+#admin_member_table td {border: 1px solid grey}
+
+#add_member_btn {width: 100px; height: 34px; margin: 20px 0px 0px 45%; font-size: 20px;
+		border: none; background-color: tomato; color: white}
